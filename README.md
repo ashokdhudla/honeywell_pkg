@@ -1,1 +1,1 @@
-# honeywell_pkg
+#This is demo package using best practices
